@@ -15,7 +15,9 @@
   
 ![DASHBOARD BIKE SALES](https://github.com/user-attachments/assets/becc26ca-4af8-47a6-9932-a382e0619353)
 
-
+## insights
+ - People with higher average salaries bought more bikes
+ - People between age 30 and 50 made more purchases
 
 
 
